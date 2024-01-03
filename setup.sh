@@ -21,9 +21,9 @@ LIGHT='\033[0;37m'
 # Link Hosting Kalian Untuk Ssh Vpn
 akbarvpn="raw.githubusercontent.com/senowahyu62/scriptvps/main/ssh"
 # Link Hosting Kalian Untuk Sstp
-akbarvpnn="raw.githubusercontent.com/senowahyu62/scriptvps/main/sstp"
+#akbarvpnn="raw.githubusercontent.com/senowahyu62/scriptvps/main/sstp"
 # Link Hosting Kalian Untuk Ssr
-akbarvpnnn="raw.githubusercontent.com/senowahyu62/scriptvps/main/ssr"
+#akbarvpnnn="raw.githubusercontent.com/senowahyu62/scriptvps/main/ssr"
 # Link Hosting Kalian Untuk Shadowsocks
 akbarvpnnnn="raw.githubusercontent.com/senowahyu62/scriptvps/main/shadowsocks"
 # Link Hosting Kalian Untuk Wireguard
