@@ -37,7 +37,7 @@ akbarvpnnnnnnnn="raw.githubusercontent.com/senowahyu62/scriptvps/main/backup"
 # Link Hosting Kalian Untuk Websocket
 akbarvpnnnnnnnnn="raw.githubusercontent.com/senowahyu62/scriptvps/main/websocket"
 # Link Hosting Kalian Untuk Ohp
-akbarvpnnnnnnnnnn="raw.githubusercontent.com/senowahyu62/scriptvps/main/ohp"
+akbarvpnnnnnnnnnn="raw.githubusercontent.com/darkrenz/scriptvps/main/ohp"
 
 # Getting
 MYIP=$(wget -qO- ipinfo.io/ip);
