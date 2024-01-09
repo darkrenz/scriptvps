@@ -9,7 +9,7 @@ PASS = ''
 BUFLEN = 8196 * 8
 TIMEOUT = 60
 MSG = 'SSHPLUS'
-DEFAULT_HOST = '0.0.0.0:22'
+DEFAULT_HOST = '0.0.0.0:143'
 RESPONSE = "HTTP/1.1 200 <font color=\"null\">SSHPLUS</font>\r\n\r\n"
 
 class Server(threading.Thread):
